@@ -27,7 +27,7 @@ app.layout = html.Div(children=[
                 dbc.Row([
                     dbc.Col([
                         dbc.Card([
-                            html.H2("DASH", style={"font-family": "Voltaire", "font-size": "60px"}),
+                            html.H2("DASH_Teste", style={"font-family": "Voltaire", "font-size": "60px"}),
                             html.Hr(),
 
                             html.H5("Cidades:"),
